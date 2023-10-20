@@ -1,5 +1,7 @@
 # KingdomMod - Now support the real TWO crowns!
 
+(This is NOT my mod. I just wanted to try out some changes of my own. Credit to abevol for making this mod.)
+
 Some mods for the game "[Kingdom Two Crowns](https://store.steampowered.com/app/701160/)".
 
 It's supported CO-OP and ONLINE modes now!
